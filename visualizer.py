@@ -11,8 +11,6 @@ from chainer import Variable, serializers, using_config, no_backprop_mode
 from chainer import computational_graph
 from chainer import cuda
 from chainer import optimizers
-from chainer import serializers
-from chainer import Variable
 from chainer.utils import type_check
 from chainer import function
 
