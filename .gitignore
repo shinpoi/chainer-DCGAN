@@ -1,0 +1,11 @@
+# images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# cache
+__pycache__
+.idea
+*.pyc
